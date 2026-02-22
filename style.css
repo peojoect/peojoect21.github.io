@@ -22,6 +22,10 @@ nav {
     align-items: center;
 }
 
+#logo-shop {
+	height: 35px;
+}
+
 nav .logo {
     font-size: 1.5rem;
     font-weight: bold;
@@ -133,3 +137,4 @@ footer {
 	transition: transform 0.3s ease;
 	transform: scale(1.2);
 }
+
