@@ -23,7 +23,12 @@ nav {
 }
 
 #logo-shop {
-	height: 35px;
+	height: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
 }
 
 nav .logo {
@@ -137,4 +142,5 @@ footer {
 	transition: transform 0.3s ease;
 	transform: scale(1.2);
 }
+
 
